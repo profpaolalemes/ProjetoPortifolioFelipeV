@@ -1,0 +1,23 @@
+#App{
+    background-color: cadetblue;
+}
+
+#jogos{
+    background-color: darkkhaki;
+}
+
+#chatbot{
+    background-color: rgb(235, 164, 139);
+}
+
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    font-family: sans-serif;
+    border-bottom: solid 3px black;
+    display: inline-block;
+    width: fit-content;
+}
